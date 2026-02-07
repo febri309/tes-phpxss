@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Toko Serba Ada - Cari Barang</title>
+    <title>Cari Barang</title>
     <style>
         body { font-family: sans-serif; padding: 20px; }
         .search-box { margin-bottom: 20px; }
@@ -11,7 +11,7 @@
 </head>
 <body>
 
-    <h1>pencarian</h1>
+    <h1>Pencarian</h1>
     
     <div class="search-box">
         <form action="" method="GET">
