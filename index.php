@@ -29,7 +29,7 @@
 
         echo "<div class='result'>";
         
-        echo "<h3>Hasil pencarian untuk: " . $search_query . "</h3>"; 
+        echo "<h3>Hasil pencarian untuk: " . htmlspecialchars($search_query) . "</h3>"; 
         
         echo "<ul>";
         foreach ($products as $product) {
