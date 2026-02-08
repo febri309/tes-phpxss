@@ -3,7 +3,7 @@
 <body>
 
     <p>
-        Menu: <b>Pencarian Produk</b> | <a href="comments.php">Ke Halaman Komentar >></a>
+        Menu: <b>Pencarian Produk</b> | <a href="komen.php">Ke Halaman Komentar >></a>
     </p>
     <hr>
 
